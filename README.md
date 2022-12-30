@@ -1,2 +1,3 @@
-# containers-learning-path
-This repository features a learning path for system administrators related to everything with containers, container orchestration, tools and frameworks for containerization.
+# Containers 101
+
+![Container learning path banner](container_lp_banner.png)
