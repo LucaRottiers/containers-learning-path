@@ -1,6 +1,6 @@
 # Containers 101 - Ready to Dock
 
-![Container learning path banner](container_lp_banner.png)
+![Container learning path banner](img/container_lp_banner.png)
 
 Remember, this course is just your start and there is no end to learning it!
 
